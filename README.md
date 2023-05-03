@@ -4,9 +4,9 @@ Deep-Learning-based-automated-trash-sorting-system
 (딥러닝 기반의 쓰레기 자동 분류 시스템)
 ----------------------------------------------------------------------------------
 
-### PPT
 #### 시연영상 링크: https://www.youtube.com/watch?v=ocxXG72T8I0
 #### 딥러닝 모델 학습(gif)
+### PPT
 ![trash_tracking](https://user-images.githubusercontent.com/124949127/235855287-90e8458c-e3c0-4682-bb46-a5037c635e03.gif)
 ![Screenshot from 2023-05-03 16-09-21](https://user-images.githubusercontent.com/124949127/235852065-db6feb17-5a58-4aec-906d-a7881228ede3.png)
 ![Screenshot from 2023-05-03 16-09-24](https://user-images.githubusercontent.com/124949127/235852073-e30ada03-40aa-4da1-8d7f-636491a24247.png)
