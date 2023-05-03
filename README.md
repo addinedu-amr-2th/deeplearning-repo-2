@@ -1,6 +1,7 @@
 deeplearning-repo-2
 ====================
-Deep-Learning-based-automated-trash-sorting-system(딥러닝 기반의 쓰레기 자동 분류 시스템)
+Deep-Learning-based-automated-trash-sorting-system
+(딥러닝 기반의 쓰레기 자동 분류 시스템)
 ----------------------------------------------------------------------------------
 
 ### PPT
