@@ -1,14 +1,7 @@
-# deeplearning-repo-2
+deeplearning-repo-2
+====================
+Deep-Learning-based-automated-trash-sorting-system(딥러닝 기반의 쓰레기 자동 분류 시스템)
+----------------------------------------------------------------------------------
 
-# 개발 환경 Ubuntu 20.04, ROS2 Foxy
-# 코드 규약
-#### Python, C++, dockerfile
-
-## 1. 주석 꼭 달기!
-## 2. #region #endregion 넣기 (코드 접기를 위해서)
-
-## 3. 코드 적기 방법
-void main()<br>
-{
-
-}
+### PPT
+#### 시연영상 링크: https://www.youtube.com/watch?v=ocxXG72T8I0
